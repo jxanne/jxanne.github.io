@@ -11,8 +11,8 @@ body {
 .container {
   color: #ffff;
   text-align: center;
-  height: 200px;
-  position: relative;
+  height: auto;
+  position: center;
   border: 3px solid #156d04; 
   margin: auto;
   position: absolute;
